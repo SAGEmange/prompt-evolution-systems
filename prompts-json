@@ -1,0 +1,30 @@
+{
+  "id": "001",
+  "prompt_text": "Generate a cyberpunk city skyline at midnight with neon signs in Japanese, flying cars, and rainy reflections.",
+  "created_at": "2025-06-22T21:10:00Z",
+  "evolved_from": null
+}
+{
+  "id": "002",
+  "prompt_text": "Take the cyberpunk city scene and add a red holographic dragon flying through the skyline.",
+  "created_at": "2025-06-22T21:12:00Z",
+  "evolved_from": "001"
+}
+{
+  "id": "003",
+  "prompt_text": "Now zoom into a busy alley in the city, showing a shadowy figure with glowing eyes trading information via digital chips.",
+  "created_at": "2025-06-22T21:15:00Z",
+  "evolved_from": "002"
+}
+{
+  "id": "004",
+  "prompt_text": "Create a detailed concept for an AI that evolves user prompts like a family tree, saving each version to GitHub.",
+  "created_at": "2025-06-22T21:20:00Z",
+  "evolved_from": null
+}
+{
+  "id": "005",
+  "prompt_text": "Evolve the AI concept by adding a scoring system that ranks prompts based on creativity, clarity, and complexity.",
+  "created_at": "2025-06-22T21:25:00Z",
+  "evolved_from": "004"
+}
